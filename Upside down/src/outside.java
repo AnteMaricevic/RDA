@@ -69,7 +69,7 @@ public class outside {
         textArea.setWrapStyleWord(true);
         textArea.setLineWrap(true);
         textArea.setEditable(false);
-        textArea.setText("You chose to go outside. It’s a rainy day, so you chose to put on a long-sleeved turtleneck, some thick pants and a coat. " +
+        textArea.setText("You went outside and got into your car. It’s a rainy day, so you chose to put on a long-sleeved turtleneck, some thick pants and a coat. " +
                 "After you put on your rain boots, you also picked up your beat-up umbrella for some extra rain protection. The extreme winds and heavy rain are at fault for the state of the poor thing. " +
                 "You head out, pleasantly surprised that the rain is not heavy at all, but merely trickling as the sky has barely any rain clouds above your head. " +
                 "There is even still some sun piercing through the clouds, warming your skin. You briefly think about whether you prefer rainy weather or clear skies…\n\nWhat do you prefer?");
